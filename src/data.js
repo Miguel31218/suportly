@@ -142,7 +142,7 @@ export const SAMPLE_MESSAGES = {
 export const DEMO_ACCOUNTS = [
   {
     id: "bruma", name: "Bruma", email: "bruma@demo.suportly.com", initials: "B",
-    tagline: "Tienda online de ropa · plan ya aplicado",
+    tagline: "Tienda online de Cosmetica · plan ya aplicado",
     preset: { rubro: "ecommerce", canales: ["whatsapp", "instagram", "comments", "email", "web"], volumen: "alto", web: true, cobraOnline: true, local: false },
   },
   {
